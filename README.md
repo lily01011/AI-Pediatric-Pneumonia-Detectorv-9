@@ -949,6 +949,10 @@ Medical references embedded in the explanation engines and knowledge base:
 
 ---
 
+## Demo Video
+
+[![Watch the Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1xokXRsqclNwA7W-GA66zJH7B9T49yghv/view?usp=drivesdk)
+
 ## 20. License
 
 This project was developed as an academic capstone at the **University of Saida, Algeria, Academic Year 2025–2026**. All rights reserved by the project team. Contact the supervisor for usage permissions.
