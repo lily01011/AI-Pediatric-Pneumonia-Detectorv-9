@@ -1,0 +1,10 @@
+1. Is the antibiotic working?
+2. Does this child need ICU?
+3. What is killing this patient?
+4. Safe antibiotic alternatives given the allergy?
+5. Why is SpO2 still low?
+6. Is this sepsis?
+7. Can we discharge safely?
+8. What does the cyanosis trend mean?
+9. Why is the child not eating?
+10. What is the biggest risk right now?
