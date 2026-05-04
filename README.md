@@ -907,8 +907,9 @@ Inter-page data passing uses `st.session_state`. The chatbot maintains `user_kb`
 | **Miloudi Maroua Amira** | generative ai engineer & Fullstack Developer & Business Model | University of Saida, Algeria |
 | **Bouhmidi Amina Maroua** | Data Engineer | University of Saida, Algeria |
 | **Labani Nabila Nour El Houda** | Deep Learning Engineer | University of Saida, Algeria |
-| **Dr. Aimer Mohammed Djamel Eddine** | Medical Advisor | CHU Saida, Algeria |
 | **Kassouar Fatima** | Project manager ML Engineer | University of Saida, Algeria |
+| **Dr. Aimer Mohammed Djamel Eddine** | Medical Advisor | CHU Saida, Algeria |
+
 ---
 
 ## 18. Acknowledgements
